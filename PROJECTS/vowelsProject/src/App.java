@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        String a = "E";
+        String a = "a";
         String secilen = a.toLowerCase();
         switch (secilen) {
             case "e":

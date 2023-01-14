@@ -1,6 +1,6 @@
 public class App {
     public static void main(String[] args) throws Exception {
-        int primenumber = 603;
+        double primenumber = 89636899568596577.0;
         Boolean prime = true;
         for (int i = 2; i < primenumber; i++) {
             if (primenumber % i == 0) {
@@ -18,6 +18,8 @@ public class App {
 
         } else {
             System.out.println("sayı asal değldir");
+
         }
     }
+
 }
