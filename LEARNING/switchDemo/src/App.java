@@ -10,9 +10,9 @@ public class App {
                 System.out.println("aaaa yaptığın ayıp bak");
                 break;
             case "trk":
-                System.out.println("ananı avradını ***** senin oc adi köpek şeref yoksunu piç");
+                System.out.println("ananas suyu içer misiniz beyefendi");
             default:
-                System.out.println("öyle insan tipi mi var aq");
+                System.out.println("öyle insan tipi mi var ");
 
         }
 
